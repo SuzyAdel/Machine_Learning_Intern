@@ -1,6 +1,6 @@
 # Mentorness- ML internship
 Hands-on projects and exercises tailored to reinforce key concepts and build practical experience. From basic algorithms to real-world applications of machine learning .
-# Task 1: Reel Task 
+# Task 1: Reel Task On XGBoost
 Topic for Reel: Regularization in XGBoost: Explain regularization techniques used in XGBoost, such as shrinkage (learning rate) and tree pruning, to prevent overfitting and improve generalization performance.
 
 The purpose of giving you this task is to:
