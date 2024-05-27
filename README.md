@@ -17,3 +17,18 @@ The purpose of giving you this task is to:
    
 Objective:
 The objective of this project is to prepare a dataset for use in a predictive model by performing necessary data cleaning and preprocessing steps. This involves handling missing values, removing duplicates, and transforming data into a suitable format for analysis. By the end of this task, you will have a clean and well-structured dataset that can be used to train reliable machine learning models for disease classification and prognosis.
+
+# Task 3: Market Price Prediction
+
+The purpose of giving you this task is to:
+1. Develop and enhance your skills in time series analysis and market price forecasting.
+2. Apply advanced machine learning techniques to predict market prices for various commodities.
+3. Understand the impact of data preprocessing, feature engineering, and model selection on prediction accuracy.
+
+Objective: Develop a robust time series machine learning model to accurately forecast future market prices for various commodities based on historical data. This involves cleaning and preprocessing the data, analyzing and engineering features, and selecting and fine-tuning suitable forecasting models.
+
+
+
+
+
+
