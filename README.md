@@ -29,6 +29,7 @@ Objective: Develop a robust time series machine learning model to accurately for
 
 
 
+![Ml Mentorness internship certificate ](https://github.com/SuzyAdel/Mentorness-intern/assets/128175020/c7a3f5a0-8edd-4621-b147-ded2ccce3600)
 
 
 
